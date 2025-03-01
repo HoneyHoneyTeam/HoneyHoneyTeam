@@ -6,8 +6,8 @@ Honey Honey Lab was founded around 2022 in Sydney, Australia. Initially, it star
 
 Currently, we have two main focuses:
 
-    - The first is developing network security testing devices, including extension boards for Flipper Zero, Marauder, and others.
-    - The second is modifying coffee machines, creating coffee gear, roasting our own brand of coffee, and hopefully, creating our own espresso machine in the future.
+- The first is developing network security testing devices, including extension boards for Flipper Zero, Marauder, and others.
+- The second is modifying coffee machines, creating coffee gear, roasting our own brand of coffee, and hopefully, creating our own espresso machine in the future.
 
 Stay tuned!
 
