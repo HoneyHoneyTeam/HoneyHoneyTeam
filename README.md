@@ -9,16 +9,12 @@ Currently, we have two main focuses:
 - The first is developing network security testing devices, including extension boards for Flipper Zero, Marauder, and others.
 - The second is modifying coffee machines, creating coffee gear, roasting our own brand of coffee, and hopefully, creating our own espresso machine in the future.
 
-Stay tuned!
+🤘Stay tuned🤘!
 
 You can connect with us through the following links:
 
-Whatsapp
-Instagram
-Email
-Facebook
+- ✨ Whatsapp ✨
+- ✨ Instagram ✨
+- ✨ Email ✨
+- ✨ Facebook ✨
 
-<!---
-HoneyHoneyTeam/HoneyHoneyTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
