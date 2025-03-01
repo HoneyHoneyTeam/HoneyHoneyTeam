@@ -15,7 +15,7 @@ You can connect with us through the following links:
 
 - ✨ [Whatsapp](https://wa.me/61452559581)  ✨
 - ✨ [Email](Support@honeyhoneylab.com) ✨
-- ✨ [Instagram] : incoming ✨
+- ✨ Instagram : incoming ✨
 -   
 
 
