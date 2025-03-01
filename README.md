@@ -13,8 +13,9 @@ Currently, we have two main focuses:
 
 You can connect with us through the following links:
 
-- ✨ Whatsapp ✨
-- ✨ Instagram ✨
-- ✨ Email ✨
-- ✨ Facebook ✨
+- ✨ [Whatsapp](https://wa.me/61452559581)  ✨
+- ✨ [Email](Support@honeyhoneylab.com) ✨
+- ✨ [Instagram] : incoming ✨
+-   
+
 
